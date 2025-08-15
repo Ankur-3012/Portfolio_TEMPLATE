@@ -1,0 +1,28 @@
+RESUME PLACEHOLDER
+
+To add your resume to this portfolio:
+
+1. Create your resume in PDF format
+2. Name it "resume.pdf" 
+3. Place it in this directory (same folder as index.html)
+4. The download link in about.html will automatically work
+
+Alternative options:
+- You can rename your resume file to "resume.pdf" and replace this file
+- Or update the href in about.html to point to your actual resume file name
+
+Example resume structure:
+- Personal Information
+- Professional Summary
+- Work Experience
+- Education
+- Skills
+- Projects
+- Certifications
+- References (optional)
+
+Make sure your resume is:
+- Professional and well-formatted
+- Up-to-date with current information
+- Optimized for both screen and print viewing
+- Under 2MB for fast downloading 
